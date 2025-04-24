@@ -7,7 +7,7 @@ namespace UserManagmentSystem
     public class UserManager
     {
         private List _users = new List();
-
+        private int_count
         public void AddUser(string username)
         {
             _users.Add(username);
